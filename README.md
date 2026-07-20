@@ -88,7 +88,7 @@ This project uses a **Linear Regression** model to estimate the selling price of
 
 ## 🚗 Prediction Page
 
-![Prediction](images/prediction_result.png)
+![Prediction](images/prediction1.png)
 
 ---
 
@@ -98,9 +98,9 @@ This project uses a **Linear Regression** model to estimate the selling price of
 
 ---
 
-## 📈 Feature Importance
+## 📈 About 
 
-![Feature Importance](images/feature_importance.png)
+![About page ](images/about.png)
 
 ---
 
