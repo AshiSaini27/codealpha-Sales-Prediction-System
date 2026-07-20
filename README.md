@@ -6,7 +6,7 @@ Built using **Python, Scikit-Learn, and Streamlit**.
 
 ---
 
-**LIVE URL LINK :** https://car-price-prediction-ml-ashi.streamlit.app/
+
 ## 📌 Project Overview
 
 This project uses a **Linear Regression** model to estimate the selling price of a used car from various input features. The application provides an interactive Streamlit interface where users can enter car details and instantly receive the predicted selling price.
