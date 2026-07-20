@@ -178,6 +178,4 @@ Machine Learning Enthusiast
 
 ---
 
-## ⭐ If you like this project
 
-Please consider giving this repository a **Star ⭐**.
